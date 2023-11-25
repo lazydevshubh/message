@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yay, see you soon!";
   gif.src =
-    "https://tenor.com/view/shinchan-gif-18543088";
+    "https://media.giphy.com/media/MBaRIkFJiJ1yF5ZUy8/giphy-downsized.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
